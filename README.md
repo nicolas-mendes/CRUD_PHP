@@ -9,7 +9,7 @@ O sistema possui um forte foco em segurança, implementando práticas essenciais
 <p align="center">
   <em>Tela Principal de Listagem de Usuários</em>
   <br>
-  <img src="URL_DA_SUA_IMAGEM_AQUI.png" alt="Tela Principal" width="700"/>
+  [![imagem-2025-08-16-174903785.png](https://i.postimg.cc/sxqKzqbZ/imagem-2025-08-16-174903785.png)](https://postimg.cc/bS01HCyz)
 </p>
 
 <p align="center">
