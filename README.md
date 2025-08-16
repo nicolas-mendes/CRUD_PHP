@@ -9,13 +9,13 @@ O sistema possui um forte foco em segurança, implementando práticas essenciais
 <p align="center">
   <em>Tela Principal de Listagem de Usuários</em>
   <br>
-  <img [![imagem-2025-08-16-175128317.png] (https://i.postimg.cc/tgBMfSRF/imagem-2025-08-16-175128317.png)](https://postimg.cc/gw6sLKZ0) />
+  <img src="https://i.postimg.cc/sxqKzqbZ/imagem-2025-08-16-174903785.png" alt="Tela Principal de Listagem de Usuários<" width="700"/>
 </p>
 
 <p align="center">
   <em>Formulário de Cadastro e Edição</em>
   <br>
-  <img src="https://i.postimg.cc/tgBMfSRF/imagem-2025-08-16-175128317.png" alt="Formulário de Cadastro" width="700"/>
+  <img src="https://i.postimg.cc/vHw3PF7p/imagem-2025-08-16-175447672.png" alt="Formulário de Cadastro" width="700"/>
 </p>
 
 ## ✨ Funcionalidades Principais
