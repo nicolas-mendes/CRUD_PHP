@@ -15,7 +15,7 @@ O sistema possui um forte foco em segurança, implementando práticas essenciais
 <p align="center">
   <em>Formulário de Cadastro e Edição</em>
   <br>
-  <img src="URL_DA_SUA_IMAGEM_AQUI.png" alt="Formulário de Cadastro" width="700"/>
+  <img src="https://i.postimg.cc/tgBMfSRF/imagem-2025-08-16-175128317.png" alt="Formulário de Cadastro" width="700"/>
 </p>
 
 ## ✨ Funcionalidades Principais
