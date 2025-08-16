@@ -1,0 +1,5 @@
+# Arquivos de dependências do Composer
+/vendor/
+
+# Arquivo de lock do Composer
+composer.lock
